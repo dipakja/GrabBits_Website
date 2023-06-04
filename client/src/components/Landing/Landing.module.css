@@ -62,6 +62,10 @@
 .grabby_container {
 	margin-right: 150px;
 }
+.card1{
+	padding-left: 30px;
+	
+}
 
 @keyframes floating {
 	0% {
